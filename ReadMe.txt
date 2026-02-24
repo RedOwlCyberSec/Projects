@@ -7,3 +7,4 @@ Table of Contents
 
 [Homelab Server]
 -no attribution needed; currently running ZimaOS and ZVM: Mint, Win10, Kali Linux. Apps: PiHole for Network-wide Ad Blocking, Cloudflared(to run Cloudflare Tunnel), ttydbridge(Terminal), Tailscale VPN, Jellyfin(Media library)
+- Hardware: Dell Optiplex 7010 USFF, 256GB SSD, 8GB DDR3 RAM, i5 CPU
